@@ -1,0 +1,12 @@
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.exe
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.exe
+E:\SEIP.NET\Batch 20\2018.10.27\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.exe
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.exe
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\bin\Debug\InheritancePracticeApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.29\InheritancePracticeApp\InheritancePracticeApp\obj\Debug\InheritancePracticeApp.csprojResolveAssemblyReference.cache
